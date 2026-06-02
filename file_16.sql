@@ -1,0 +1,4 @@
+
+# 2026-06-02 23:20:50.159670
+SELECT * FROM users 
+WHERE age > 18;
