@@ -13,3 +13,13 @@ int main(){
     return 0;
 }
 
+
+# 2026-07-14 00:25:39.352203
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout << "Basic program running";
+    return 0;
+}
+
