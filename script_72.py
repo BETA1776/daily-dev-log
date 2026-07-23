@@ -6,3 +6,10 @@ def factorial(n): return 1 if n==0 else n*factorial(n-1)
 def is_palindrome(s):
     return s == s[::-1]
 
+
+# 2026-07-24 00:29:17.390464
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+
