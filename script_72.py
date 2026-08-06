@@ -13,3 +13,8 @@ def factorial(n):
         return 1
     return n * factorial(n-1)
 
+
+# 2026-08-06 10:15:17.867152
+def is_palindrome(s):
+    return s == s[::-1]
+
